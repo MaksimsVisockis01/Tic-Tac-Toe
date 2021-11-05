@@ -6,7 +6,7 @@
 programma “Tic-Tac-Toe” parādīs tabulu un pieprasīs, kādā šūnā tiks ievadīta katra pirmā norise “X”, otrais “O”. Programma uzskatīs, kādas figūras stāv un uzvar, ja “X” nonāk rindā (uzvara “X”) un analoģiski “O” (uzvara “O”) un arī izvadīt “neizšķirtus”, ja formas nestāv rindā.
 
 
-Piemers:
+Piemers:                                                                                                                                                                           
 -1-|-2-|-3-                                                                                                                                                                       
 -4-|-5-|-6-                                                                                                                                                                       
 -7-|-8-|-9-
@@ -14,5 +14,4 @@ ievadiet šūnas numuru: 1
 -x-|---|---                                                                                                                                                                       
 ---|---|---                                                                                                                                                                       
 ---|---|---   
-
 utt.
