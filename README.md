@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-
+## Apraksts
 [rus]                                                                                                                                                                              
 программа "Tic-Tac-Toe" будет выводить таблицу и просить ввести в какой ячейке будет ход каждый первый ход вводится "X", второй ход "O". Программа будет считать какие фигуры стоят и выводить победу если "X" попадается в ряд(победа "X") и аналогично с "O" (победа "O") и также выводить "ничья" если фигуры не стоят в ряд.                                       
 [lv]                                                                                                                                                                               
@@ -17,3 +17,12 @@ ievadiet šūnas numuru: 1
                                                                                                                                                                                    
 ---|---|---                                                                                                                                                                         
                                                                                                                                                                                     utt.
+## Galvenās funkcijas
+	- Ievadīt tekstu
+	- Apstrādāt datus
+	- Izvada uzvareto
+## Izmantotās tehnoloģijas
+	- C++
+## Izmantotie avoti
+	- [SFML dokumentācija](https://www.sfml-dev.org/style.php)
+  - https://www.w3schools.com/cpp
