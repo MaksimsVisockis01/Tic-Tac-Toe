@@ -7,7 +7,12 @@ programma “Tic-Tac-Toe” parādīs tabulu un pieprasīs, kādā šūnā tiks 
 
 
 Piemers:
--1-|-2-|-3-                                                                                                                                                                        -4-|-5-|-6-                                                                                                                                                                        -7-|-8-|-9-
+-1-|-2-|-3-                                                                                                                                                                       
+-4-|-5-|-6-                                                                                                                                                                       
+-7-|-8-|-9-
 ievadiet šūnas numuru: 1
--x-|---|---                                                                                                                                                                        ---|---|---                                                                                                                                                                        ---|---|---   
+-x-|---|---                                                                                                                                                                       
+---|---|---                                                                                                                                                                       
+---|---|---   
+
 utt.
